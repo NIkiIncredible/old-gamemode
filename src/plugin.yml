@@ -1,0 +1,8 @@
+name: OldGamemdoe
+version: 0.1
+description: Der Gamemode Befehl aus Versionen <1.13
+author: DasNiklas
+main: me.DasNiklas.OldGamemode.Main.Main
+commands:
+ gamemode:
+  aliases: [gm]
